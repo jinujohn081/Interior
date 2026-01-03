@@ -1,0 +1,9 @@
+.menu-item {
+  color: gray;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.active {
+  background-color: red;
+}
