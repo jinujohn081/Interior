@@ -23,5 +23,5 @@ A modern, responsive **interior design landing page** built with **HTML, CSS, an
 
 ---
 
-## 📁 Folder Structure
+
 
