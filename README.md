@@ -23,5 +23,7 @@ A modern, responsive **interior design landing page** built with **HTML, CSS, an
 
 ---
 
-
+Run the project
+1. npm install
+2. npm run dev
 
