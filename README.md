@@ -24,4 +24,4 @@ A modern, responsive **interior design landing page** built with **HTML, CSS, an
 ---
 
 Vercel Deployed
-Link - https://interior-u5d8-nqtx58n53-jinu-johns-projects.vercel.app/projects.html
+Link - https://interior-u5d8-o0xvi8c62-jinu-johns-projects.vercel.app/
