@@ -23,7 +23,5 @@ A modern, responsive **interior design landing page** built with **HTML, CSS, an
 
 ---
 
-Run the project
-1. npm install
-2. npm run dev
-
+Vercel Deployed
+Link - https://interior-u5d8-nqtx58n53-jinu-johns-projects.vercel.app/projects.html
